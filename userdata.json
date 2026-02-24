@@ -1,14 +1,107 @@
 [
-    {
-        "device_id": "ee8ad9ed90ca2a3d",
-        "key": "Sayed143",
-        "expirydate": "28-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
+
+{
+    "device_id": "ee8ad9ed90ca2a3d",
+    "key": "Sayed143",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
+  },
+{
+    "device_id": "d62d8021254c6dac",
+    "key": "Siam",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
+  },
+{
+    "device_id": "dfe078181d2a284c",
+    "key": "nahidul",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
+  },
+{
+    "device_id": "dfeecb615fa56444",
+    "key": "SP1",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
+  },
+{
+    "device_id": "fde8145f8aae0425",
+    "key": "ujjol",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "127f9733973232a0",
+    "key": "hasib",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "39d987406cc5e3ca",
+    "key": "sifat",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "4db1d43eb3dc78dc",
+    "key": "Teamwithapon_X_FirstAccount",
+    "expirydate": "09-03-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "da30e6b0b0e682a5",
+    "key": "siam",
+    "expirydate": "05-03-2027",
+    "Allowoffline": true
+  },
+
+{
+    "device_id": "b2f6ce156e370ba5",
+    "key": "XZXZ123",
+    "expirydate": "1-03-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "a4790f05a57fcce8",
+    "key": "mahir",
+    "expirydate": "1-03-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "815bb660b23e61c7",
+    "key": "rahad",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "8151cf79ead7facc",
+    "key": "Sifat03",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "23388bb9f6e8f72a",
+    "key": "Tafsir",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "3c467a100ef45b3c",
+    "key": "rupok",
+    "expirydate": "01-03-2027",
+    "Allowoffline": true
+  },
+{
+    "device_id": "6afed804028ca0df",
+    "key": "Shoron",
+    "expirydate": "27-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "4217fd4f19d0e2f8",
+    "key": "denzel123",
+    "expirydate": "09-03-2027",
+    "Allowoffline": true
+  }
+
 ]
