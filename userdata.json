@@ -121,6 +121,12 @@
     "expirydate": "10-03-2026",
     "Allowoffline": true
   },
+{
+    "device_id": "a9fc9f003ac9cba8",
+    "key": "SRK2",
+    "expirydate": "02-04-2026",
+    "Allowoffline": true
+  }
     
 
 ]
