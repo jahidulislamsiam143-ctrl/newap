@@ -156,6 +156,18 @@
     "key": "jihad12",
     "expirydate": "02-04-2027",
     "Allowoffline": true
+  },
+{
+    "device_id": "abaa6d64f396d784",
+    "key": "rabbi",
+    "expirydate": "02-04-2027",
+    "Allowoffline": true
+  },
+{
+    "device_id": "8151cf79ead7facc",
+    "key": "opsifat",
+    "expirydate": "02-04-2027",
+    "Allowoffline": true
   }
 
     
