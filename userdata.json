@@ -180,7 +180,13 @@
     "key": "opsifat2",
     "expirydate": "02-04-2027",
     "Allowoffline": true
-  }
+  },
+{
+    "device_id": "2bd083fa19ffc17e",
+    "key": "sagor01",
+    "expirydate": "02-04-2027",
+    "Allowoffline": true
+ ‌ }
     
 
     
